@@ -1,6 +1,7 @@
 # imcat
 
 Renders images in the terminal.
+
 Forked from ![catimg](https://github.com/posva/catimg), for the sake of readability and simplicity.
 
 ![mewtwo](imgs/print.png)
